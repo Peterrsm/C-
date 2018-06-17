@@ -1,0 +1,9 @@
+c:\users\pedro\documents\visual studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\bin\Debug\CalculadoraWindows10.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\bin\Debug\CalculadoraWindows10.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\bin\Debug\CalculadoraWindows10.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\obj\Debug\CalculadoraWindows10.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\obj\Debug\CalculadoraWindows10.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\obj\Debug\CalculadoraWindows10.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\obj\Debug\CalculadoraWindows10.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\obj\Debug\CalculadoraWindows10.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\CalculadoraWindows10\CalculadoraWindows10\obj\Debug\CalculadoraWindows10.pdb

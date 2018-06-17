@@ -1,0 +1,10 @@
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe.config
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Form1.resources
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\bin\Debug\JogoVelha.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe
+c:\users\pedro\documents\visual studio 2015\Projects\JogoVelha\JogoVelha\obj\Debug\JogoVelha.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Form2.resources
